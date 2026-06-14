@@ -1,0 +1,10 @@
+title       = "mw"
+baseURL     = "https://mathworld-cli.tamnd.com/"
+description = "Browse Wolfram MathWorld mathematical articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/mathworld-cli"
